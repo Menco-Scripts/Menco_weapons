@@ -1,6 +1,4 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![GitHub release downloads](https://img.shields.io/github/downloads/Menco-Scripts/Menco_weapons/total)
-
 # Menco_weapons
 
 A lightweight and enhanced script by **Menco**, designed to improve your gameplay experience with the following features:
