@@ -1,6 +1,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Menco-Scripts/Menco_weapons/total)](https://img.shields.io/github/downloads/Menco-Scripts/Menco_weapons/total
 )
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://img.shields.io/github/v/release/Menco-Scripts/Menco_weapons
+)
 
 # Menco_weapons
 
